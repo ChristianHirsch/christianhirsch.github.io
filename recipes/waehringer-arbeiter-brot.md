@@ -1,22 +1,24 @@
 ---
 layout: page
+title: Währinger Arbeiter Brot
+bigimg:
+- "/img/recipes/2018-11-21-bread1.jpg"
+- "/img/recipes/2018-11-21-bread2.jpg"
 ---
-
-# Währinger Arbeiter Brot
 
 Wenige Arbeitsschritte verteilt auf mehrere Abende.
 Perfekt für Berufstätige um nach einem anstregenden Arbeitstag herunter zu kommen.
 
-## Zutaten
+# Zutaten
 
-| :--- | ---: | :--- |
-| Sauerteig | 100 | g |
-| Wasser | 200 | g |
-| Weizenmehl (W700) | 200 | g |
-| Rogggenmehl (Vollkorn) | 100 | g |
-| Salz | 1,5 | TL |
+| ---: | :--- | :--- |
+|  100 | g    | Sauerteig |
+|  200 | g    | Wasser |
+|  200 | g    | Weizenmehl (W700) |
+|  100 | g    | Rogggenmehl (Vollkorn) |
+|    2 | TL   | Salz |
 
-## Zubereitung
+# Zubereitung
 
 Den Sauerteig im Wasser auflösen.
 Mehl in die Sauerteig-Wasser Mischung sieben und grob vermischen, damit keine Klumpen mehr zu spüren sind, danach 30 min. zugedeckt rasten lassen (Autolyse).
@@ -38,11 +40,11 @@ Nach 20 min. den Deckel von dem Dutch Oven abnehmen und weitere 12 bis 20 min. b
 Das Brot aus dem Ofen nehmen und auf einem Kuchengitter abkühlen lassen.
 Um das Brot zu glänzen zu bekommen noch heiß mit etwas Wasser besprühen.
 
-## Verwendung
+# Verwendung
 
 Zum Frühstück, Mittag- oder Abendessen, mit Butter und/oder Marmelade, Schinken, Käse, oder einfach pur!
 
-## Literatur
+# Literatur
 
 - Ownes, S. (2017). *Sauerteig: Echtes Brot und Mehr*. München, DE: Knesebeck GmbH & Co. Verlag KG.
 - Alex French Guy Cooking (2017). *[A Non-Baker's Guide To Making Sourdough Bread](https://www.youtube.com/watch?v=APEavQg8rMw)*.
