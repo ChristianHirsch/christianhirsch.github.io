@@ -15,7 +15,7 @@ Perfekt für Berufstätige um nach einem anstregenden Arbeitstag herunter zu kom
 |  100 | g    | Sauerteig |
 |  200 | g    | Wasser |
 |  200 | g    | Weizenmehl (W700) |
-|  100 | g    | Rogggenmehl (Vollkorn) |
+|  100 | g    | Roggenmehl (Vollkorn) |
 |    2 | TL   | Salz |
 
 # Zubereitung
