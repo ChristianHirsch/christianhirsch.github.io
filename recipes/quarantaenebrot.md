@@ -1,21 +1,22 @@
 ---
 layout: page
-title: Währinger Arbeiter Brot
+title: Quarantänerot
 bigimg:
 - "/img/recipes/2018-11-21-bread1.jpg"
 - "/img/recipes/2018-11-21-bread2.jpg"
 ---
 
 Wenige Arbeitsschritte verteilt auf mehrere Abende.
-Perfekt für Berufstätige um nach einem anstregenden Arbeitstag herunter zu kommen.
+Perfekt für Berufstätige um nach einem anstregenden Arbeitstag herunter zu kommen, oder um sich während einer Quarantäne mit wenigen Zutaten mit Brot selbst zu versorgen.
 
 # Zutaten
 
 | ---: | :--- | :--- |
 |  100 | g    | Sauerteig |
 |  200 | g    | Wasser |
-|  200 | g    | Weizenmehl (W700) |
-|  100 | g    | Roggenmehl (Vollkorn) |
+|  100 | g    | Weizenmehl (W700) |
+|  100 | g    | Weizenmehl (Vollkorn) |
+|  100 | g    | Roggenmehl (R960) |
 |    2 | TL   | Salz |
 
 # Zubereitung
